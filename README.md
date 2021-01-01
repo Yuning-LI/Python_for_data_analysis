@@ -2,8 +2,7 @@
 ## Submitted by Kanika Mahajan & Yuning LI
 
 ## 1.Task
-[Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand?fbclid=IwAR0kA9lVpTHUikp5xuQKmz9VVeHXeTDkNyON3PUMLqKE6UWB4iReOBS4fP0)
-The dataset is about the bike renting information. In different situation including Time, Temperature, Humidity etc, we have different bike rented number.
+The [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand?fbclid=IwAR0kA9lVpTHUikp5xuQKmz9VVeHXeTDkNyON3PUMLqKE6UWB4iReOBS4fP0) is about the bike renting information. In different situation including Time, Temperature, Humidity etc, we have different bike rented number.
 So our aim is to explore the relationship between bike rented number and other features, and build the model to help make prediction.
 
 ## 2.Process
