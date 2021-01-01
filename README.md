@@ -1,2 +1,14 @@
-# Python_for_data_analysis
-ESILV - Python for data analysis - devoir 2021
+# ESILV - Python for data analysis - devoir 2021
+## Submitted by Kanika Mahajan & Yuning LI
+
+## 1.Task
+The dataset is about the bike renting information. In different situation including Time, Temperature, Humidity etc, we have different bike rented number.
+So our aim is to explore the relationship between bike rented number and other features, and build the model to help make prediction.
+
+## 2.Process
+2.1 Data visualization:visualize the basic information in the original dataset to have a better understanding, including the correlationship, changement, etc.
+2.2 Data preparation for modeling:In order to do modelization,we should firstly prepare the data, including the missing value exclusion, changing data type, dropping the incorrect data, split the training set, etc.
+2.3 Modelization and validation:try different regression models to predict the result, compare them and select the best algorithm, them optimize its parameter to get the best model.
+
+## 3.Conclusion
+Random forest regression has the best performance, we save the model into a separate file, and build the Flask API.
